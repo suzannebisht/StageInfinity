@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
         "title": "Stage Infinity:Depression",
-        "width": 816,
-        "height": 624,
+        "width": 960,
+        "height": 640,
         "position": "center",
         "icon": "icon/icon.png"
     }
